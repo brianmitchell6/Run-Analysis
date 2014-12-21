@@ -1,5 +1,6 @@
 <ol>
 <li>"Subject"</li>
+Subjects are numbered 1 through 30
 <li>"Activity"</li>
 <li>"tBodyAcc-mean()-X"</li>
 <li>"tBodyAcc-mean()-Y"</li>
