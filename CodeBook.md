@@ -1,5 +1,7 @@
 ##Data Description
-Data are mean values of raw data grouped by Subject and Activity.  The 86 columns of mean data can be interpreted according to the following notation:
+Original data was obtained according to the following: The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz.
+
+Data in this file are the mean values of the original data set grouped by Subject and Activity.  The 86 columns of mean data can be interpreted according to the following notation:
 <ul>
 <li><b>t</b>:time domain signals</li>
 <li><b>f</b>:frequency domain signals (obtained using Fast Fourier Transform)</li>
