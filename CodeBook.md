@@ -1,7 +1,7 @@
 <ol>
 <li>"Subject"</li>
 Subjects are numbered 1 through 30
-<li>"Activity"</li>
+<li>"Activity"
     <ul>
     <li>WALKING</li>
     <li>WALKING_UPSTAIRS</li>
@@ -9,7 +9,7 @@ Subjects are numbered 1 through 30
     <li>SITTING</li>
     <li>STANDING</li>
     <li>LAYING</li>
-    </ul>
+    </ul> </li>
 <li>"tBodyAcc-mean()-X"</li>
 <li>"tBodyAcc-mean()-Y"</li>
 <li>"tBodyAcc-mean()-Z"</li>
