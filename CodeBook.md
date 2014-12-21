@@ -2,6 +2,14 @@
 <li>"Subject"</li>
 Subjects are numbered 1 through 30
 <li>"Activity"</li>
+    <ul>
+    <li>WALKING</li>
+    <li>WALKING_UPSTAIRS</li>
+    <li>WALKING_DOWNSTAIRS</li>
+    <li>SITTING</li>
+    <li>STANDING</li>
+    <li>LAYING</li>
+    </ul>
 <li>"tBodyAcc-mean()-X"</li>
 <li>"tBodyAcc-mean()-Y"</li>
 <li>"tBodyAcc-mean()-Z"</li>
