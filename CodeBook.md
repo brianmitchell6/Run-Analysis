@@ -1,16 +1,17 @@
+##Data Description
 Data are mean values of raw data grouped by Subject and Activity.  The 86 columns of mean data can be interpreted according to the following notation:
 <ul>
-<li>*t*:time domain signals</li>
-<li>*f*:frequency domain signals (obtained using Fast Fourier Transform)</li>
-<li>*Body*:body linear accelaration</li>
-<li>*Gravity*:gravity acceleration</li>
-<li>*Acc*:acceleration signal from accelerometer</li>
-<li>*Gyro*:gyroscopic signal from gyroscope</li>
-<li>*Jerk*:jerk signal derived in time from the body linear acceleration and angular velocity</li>
-<li>*Mag*:magnitude of signal calculated using Euclidean norm</li>
-<li>*x,y,z*:denote the three axial signals in the X, Y, and Z directions</li>
-<li>*mean*:the statistical mean of the data</li>
-<li>*std*:the standard deviation of the data</li>
+<li><b>t</b>:time domain signals</li>
+<li><b>f</b>:frequency domain signals (obtained using Fast Fourier Transform)</li>
+<li><b>Body</b>:body linear accelaration</li>
+<li><b>Gravity</b>:gravity acceleration</li>
+<li><b>Acc</b>:acceleration signal from accelerometer</li>
+<li><b>Gyro</b>:gyroscopic signal from gyroscope</li>
+<li><b>Jerk</b>:jerk signal derived in time from the body linear acceleration and angular velocity</li>
+<li><b>Mag</b>:magnitude of signal calculated using Euclidean norm</li>
+<li><b>x,y,z</b>:denote the three axial signals in the X, Y, and Z directions</li>
+<li><b>mean</b>:the statistical mean of the data</li>
+<li><b>std</b>:the standard deviation of the data</li>
 </ul>
 <ol>
 <li>"Subject"</li>
