@@ -1,3 +1,17 @@
+Data are mean values of raw data grouped by Subject and Activity.  The 86 columns of mean data can be interpreted according to the following notation:
+<ul>
+<li>*t*:time domain signals</li>
+<li>*f*:frequency domain signals (obtained using Fast Fourier Transform)</li>
+<li>*Body*:body linear accelaration</li>
+<li>*Gravity*:gravity acceleration</li>
+<li>*Acc*:acceleration signal from accelerometer</li>
+<li>*Gyro*:gyroscopic signal from gyroscope</li>
+<li>*Jerk*:jerk signal derived in time from the body linear acceleration and angular velocity</li>
+<li>*Mag*:magnitude of signal calculated using Euclidean norm</li>
+<li>*x,y,z*:denote the three axial signals in the X, Y, and Z directions</li>
+<li>*mean*:the statistical mean of the data</li>
+<li>*std*:the standard deviation of the data</li>
+</ul>
 <ol>
 <li>"Subject"</li>
 Subjects are numbered 1 through 30
@@ -97,3 +111,5 @@ Subjects are numbered 1 through 30
 <li>"fBodyBodyGyroMag-std()"</li>
 <li>"fBodyBodyGyroJerkMag-std()"</li>
 </ol>
+
+Data comes from the following study: Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
